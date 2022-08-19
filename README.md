@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-11282
-Fork on GitHub
-2857
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Gbolahan Adegoke</h1>
 <h3 align="center">Highly skilled Software Engineer with track records and a clear vision of aligning program goals with the strategic objectives of any organization.</h3>
 
