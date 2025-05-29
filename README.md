@@ -20,9 +20,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **DevOps and Scalable Backend Systems**
+- 🔭 I’m currently working on **Cyber Security**
 - 🌱 I’m currently learning **Cloud Infrastructure & Kubernetes**
-- 💡 Ask me about **Node.js, Firebase, GraphQL, DevOps, and Web 3.0**
+- 💡 Ask me about **Node.js, Firebase, GraphQL, Cloud Infrastructure & Kubernetes**
 - 📄 Check out my [resume](https://docs.google.com/document/d/1xTYwA54rGkIVtPAyTIs6-sOTSmP8of7GoAmY_dksw5A/edit?usp=sharing)
 
 ---
